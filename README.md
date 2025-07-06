@@ -5,4 +5,4 @@ Users can run the project by compiling Start.java. The GUI is fully functional a
 
 ⚠️ Keep the folder structure unchanged after unzipping to avoid image path issues.
 
-Feel free to use or modify the project for learning.
+Feel free to use or modify the project for learning. 
